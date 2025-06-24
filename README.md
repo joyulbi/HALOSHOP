@@ -78,10 +78,10 @@
 
 ### 1. 개발 환경
 
-- Java 11+
-- MySQL 8+
-- Gradle or Maven (빌드툴)
+- Java 
+- MySQL 
+- Maven (빌드툴)
 
 ### 2. DB 설정
 ```sql
-CREATE DATABASE fandom_auction DEFAULT CHARACTER SET utf8mb4;
+
