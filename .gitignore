@@ -1,0 +1,52 @@
+/.metadata/
+# ========================
+# Maven
+# ========================
+target/
+.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
+
+# ========================
+# Eclipse / Spring Tool Suite (STS)
+# ========================
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# ========================
+# IntelliJ IDEA
+# ========================
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# ========================
+# Visual Studio Code
+# ========================
+.vscode/
+
+# ========================
+# NetBeans (혹시 모를 IDE 사용자용)
+# ========================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ========================
+# 운영체제 및 기타
+# ========================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
